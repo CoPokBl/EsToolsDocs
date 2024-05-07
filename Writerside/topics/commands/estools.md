@@ -1,5 +1,6 @@
 # /estools
 
+**Minimum Version: None**
 ```
 /estools [reload/reset/test/throw]
 ```
@@ -9,16 +10,16 @@
 The command displays the current version of the plugin.
 
 ## /estools reload
-**(O) Permission:** `estools.version`  
+**(O) Permission:** `estools.reload`  
 Running `/estools reload` with reload all plugin config files.
 
 ## /estools reset
-**(O) Permission:** `estools.version`  
+**(O) Permission:** `estools.reset`  
 This command resets all plugin config files. 
 Requires confirmation by running `/estools reset confirm`
 
 ## /estools test
-**(O) Permission:** `estools.version`  
+**(O) Permission:** `estools.test`  
 This command will perform a test of all the plugin's commands. 
 This command is intended for developers only.
 To begin the test type the command. The plugin will automatically execute commands

@@ -8,4 +8,20 @@
 
     <toc-element topic="overview.md"/>
     <toc-element topic="estools.md"/>
+    <toc-element topic="gma.md"/>
+    <toc-element topic="gms.md"/>
+    <toc-element topic="gmc.md"/>
+    <toc-element topic="gmsp.md"/>
+    <toc-element topic="tphere.md"/>
+    <toc-element topic="tpall.md"/>
+    <toc-element topic="feed.md"/>
+    <toc-element topic="fly.md"/>
+    <toc-element topic="smite.md"/>
+    <toc-element topic="invsee.md"/>
+    <toc-element topic="i.md"/>
+    <toc-element topic="h.md"/>
+    <toc-element topic="ench.md"/>
+    <toc-element topic="fix.md"/>
+    <toc-element topic="cchest.md"/>
+    <toc-element topic="back.md"/>
 </instance-profile>
