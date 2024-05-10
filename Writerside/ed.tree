@@ -50,4 +50,15 @@
     <toc-element topic="powersword.md"/>
     <toc-element topic="lore.md"/>
     <toc-element topic="rename.md"/>
+    <toc-element topic="sudo.md"/>
+    <toc-element topic="heal.md"/>
+    <toc-element topic="suicide.md"/>
+    <toc-element topic="sethealth.md"/>
+    <toc-element topic="setmaxhealth.md"/>
+    <toc-element topic="getinfo.md"/>
+    <toc-element topic="editsign.md"/>
+    <toc-element topic="god.md"/>
+    <toc-element topic="buddha.md"/>
+    <toc-element topic="music.md"/>
+    <toc-element topic="potion.md"/>
 </instance-profile>
