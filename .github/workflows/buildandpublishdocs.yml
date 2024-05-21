@@ -13,7 +13,7 @@ env:
   INSTANCE: 'Writerside/ed'
   ARTIFACT: 'webHelpED2-all.zip'
   DOCKER_VERSION: '241.15989'
-  ALGOLIA_ARTIFACT: 'algolia-indexes-ED.zip'
+  ALGOLIA_ARTIFACT: 'webHelpED2-all.zip'
   ALGOLIA_APP_NAME: 'RAKK6D361A'
   ALGOLIA_INDEX_NAME: 'docs'
   ALGOLIA_KEY: '${{ secrets.ALGOLIA_KEY }}'
