@@ -2,7 +2,11 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-    <variables></variables>
+    <variables>
+        <algolia-id>RAKK6D361A</algolia-id>
+        <algolia-index>docs</algolia-index>
+        <algolia-api-key>e6ec623d2b536bcc4cc2c2ccdf7bae35</algolia-api-key>
+    </variables>
     <build-profile instance="ed">
         <variables>
             <noindex-content>true</noindex-content>

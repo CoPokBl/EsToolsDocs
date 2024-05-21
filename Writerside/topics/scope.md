@@ -1,4 +1,4 @@
-# Scope
+# Project Scope
 We have a vision for what EsTools is supposed to be.
 Some plugins, like EssentialsX include features like economy
 which we feel should be handled by a separate plugin
