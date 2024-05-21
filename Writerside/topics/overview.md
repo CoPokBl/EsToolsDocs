@@ -6,4 +6,14 @@ helpful commands, but unlike essentials it doesn't mess up or override vanilla f
 This plugin doesn't override existing Minecraft commands and therefore is less likely to mess stuff up.
 EsTools is also completely `/reload` safe.
 
-## These Docs
+Checkout our [GitHub](https://github.com/CoPokBl/EsTools) for the source code.
+
+EsTools is available on Paper's [Hangar](https://hangar.papermc.io/Serble/EsTools) and 
+[SpigotMC](https://www.spigotmc.org/resources/estools.78930/).
+
+We use [bStats](https://bstats.org) to get statistics relating to the usage of EsTools. You can opt out by setting `metrics` to `false`
+in the `config.yml` file in the EsTools folder, or by setting `enabled` to `false` in the config.yml file
+in the bStats folder.
+
+Go [here](https://bstats.org/plugin/bukkit/EsTools/21760) to check out our usage statistics.
+![EsTools bStats statistics](https://bstats.org/signatures/bukkit/EsTools.svg)
