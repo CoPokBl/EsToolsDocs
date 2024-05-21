@@ -1,4 +1,4 @@
-# /setunbreakable
+# /hideflags
 
 **Minimum Version: 1.8**  
 **(O) Permission:** `estools.hideflags`  
