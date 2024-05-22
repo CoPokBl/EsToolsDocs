@@ -6,6 +6,14 @@
         <algolia-id>RAKK6D361A</algolia-id>
         <algolia-index>docs</algolia-index>
         <algolia-api-key>e6ec623d2b536bcc4cc2c2ccdf7bae35</algolia-api-key>
+
+        <primary-color>aqua</primary-color>
+        <custom-favicons>icon.png</custom-favicons>
+        <header-logo>icon.png</header-logo>
+        <product-web-url>https://github.com/CoPokBl/EsTools</product-web-url>
+        <download-title>Download</download-title>
+        <download-page>https://github.com/CoPokBl/EsTools/releases/latest</download-page>
+        <showDownloadButton>true</showDownloadButton>
     </variables>
     <build-profile instance="ed">
         <variables>
