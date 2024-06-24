@@ -19,7 +19,7 @@ Displays information about the specified entity.
 ### Living Entity Only (Not boats or other non-living things)
 - Health
 - Max Health
-- Potion Effects
+- Potion Effects (Type, amplifier and duration)
 - Scoreboard Tags (1.13+)
 
 ### Players

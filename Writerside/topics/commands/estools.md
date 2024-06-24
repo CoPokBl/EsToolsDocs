@@ -2,7 +2,7 @@
 
 **Minimum Version: None**
 ```
-/estools [reload/reset/test/throw]
+/estools [reload/reset/test/throw/update/forceupdate]
 ```
 
 ## /estools
@@ -27,3 +27,17 @@ while you verify that they worked. Sometimes it will prompt you to test a featur
 and then rerun `/estools test` to verify that you tested it, it will then move on.
 If an error occurs during the execution of a command, you will be notified and a stacktrace
 will be printed.
+
+## /estools update
+**(O) Permission:** `estools.update`  
+This command will download the update ready to be downloaded if one exists.
+To check if an update is ready to download, type /estools. It will display
+extra text saying that EsTools is out of date if there is an available update.
+To force an update to the latest release, type `/estools forceupdate`.
+
+## /estools forceupdate
+**(O) Permission:** `estools.forceupdate`  
+This command will download the latest available release of EsTools from GitHub.
+The new version will be downloaded regardless of whether it is newer than the current
+version. There is no way to restore the previous version after an update.
+**THIS MAY DOWNGRADE THE PLUGIN**
