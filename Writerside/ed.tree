@@ -28,6 +28,7 @@
         <toc-element topic="sethealth.md"/>
         <toc-element topic="suicide.md"/>
         <toc-element topic="heal.md"/>
+        <toc-element topic="disposal.md"/>
         <toc-element topic="sudo.md"/>
         <toc-element topic="rename.md"/>
         <toc-element topic="lore.md"/>
