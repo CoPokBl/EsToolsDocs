@@ -75,14 +75,45 @@ We see that the command can only be used by player, meaning it cannot be used by
 | /ench | NONE            | estools.ench                                       | OP                       |
 | /fix | NONE            | estools.fix                                        | OP                       |
 | /cchest | 1.7             | estools.cchest.creative OR estools.cchest.survival | NOT OP (OP for survival) |
-| /back | 1.1 | estools.back | OP |
-| /setstack | NONE | estools.setstack | OP |
-| /ci | NONE | estools.clearinv | OP |
-| /day | NONE | estools.time | OP |
-| /night | NONE | estools.time | OP |
-| /noon | NONE | estools.time | OP |
-| /midnight | NONE | estools.time | OP |
-| /sun | NONE | estools.weather | OP |
-| /rain | NONE | estools.weather | OP |
-| /thunder | NONE | estools.weather | OP |
-
+| /back | 1.1             | estools.back | OP |
+| /setstack | NONE            | estools.setstack | OP |
+| /ci | NONE            | estools.clearinv | OP |
+| /day | NONE            | estools.time | OP |
+| /night | NONE            | estools.time | OP |
+| /noon | NONE            | estools.time | OP |
+| /midnight | NONE            | estools.time | OP |
+| /sun | NONE            | estools.weather | OP |
+| /rain | NONE            | estools.weather | OP |
+| /thunder | NONE            | estools.weather | OP |
+| /walkspeed | 1.4             | estools.walkspeed | OP |
+| /flyspeed | 1.3 | estools.flyspeed | OP |
+| /setunbreakable | 1.1 | estools.setunbreakable | OP |
+| /hideflags | 1.8 | estools.hideflags | OP |
+| /eff | 1.1 | estools.effect | OP |
+| /safetp | 1.1 | estools.safetp | OP |
+| /infinite | 1.1 | estools.infinite | OP |
+| /sethunger | NONE | estools.sethunger | OP |
+| /setsaturation | NONE | estools.setsaturation | OP |
+| /powerpick | 1.1 | estools.powerpick | OP |
+| /poweraxe | 1.1 | estools.powerpick | OP |
+| /powersword | 1.1 | estools.powerpick | OP |
+| /powershovel | 1.1 | estools.powerpick | OP |
+| /powerhoe | 1.1 | estools.powerpick | OP |
+| /lore | 1.4.6 | estools.lore | OP |
+| /rename | 1.4.6 | estools.rename | OP |
+| /sudo | NONE | estools.sudo | OP |
+| /heal | NONE | estools.heal | OP |
+| /suicide | NONE | estools.suicide | NOT OP |
+| /sethealth | NONE | estools.sethealth | OP |
+| /setmaxhealth | 1.4 | estools.setmaxhealth | OP |
+| /getinfo | NONE | estools.getinfo | OP |
+| /editsign | NONE | estools.editsign | OP |
+| /god | 1.1 | estools.god | OP |
+| /buddha | 1.1 | estools.god | OP |
+| /music | 1.9 | estools.music | NOT OP |
+| /potion | NONE | estools.potion | OP |
+| /bukkitdata | 1.14 | estools.bukkitdata | OP |
+| /warp | NONE | estools.warps.use | OP |
+| /warps | NONE | estools.warps.manage | OP |
+| /mount | NONE | estools.mount | OP |
+| /dismount | NONE | estools.mount | OP |
