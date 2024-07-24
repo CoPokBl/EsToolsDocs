@@ -48,3 +48,41 @@ that song.
 
 **Player only command**  
 We see that the command can only be used by player, meaning it cannot be used by the console.
+
+# Command List
+
+| Command | Minimum Version | Permission                                         | Default                  |
+|---------|-----------------|----------------------------------------------------|--------------------------|
+| /gms    | NONE            | estools.gamemode.survival                          | OP                       |
+| /gmc | NONE            | estools.gamemode.creative                          | OP                       |
+| /gma | 1.3             | estools.gamemode.adventure                         | OP                       |
+| /gmsp | 1.8             | estools.gamemode.spectator                         | OP                       |
+| /tphere | NONE            | estools.gamemode.tp                                | OP                       |
+| /tpall | NONE            | estools.gamemode.tp                                | OP                       |
+| /feed | NONE            | estools.feed                                       | OP                       |
+| /fly | 1.2             | estools.fly                                        | OP                       |
+| /smite | NONE            | estools.smite                                      | OP                       |
+| /invsee | 1.2             | estools.invsee                                     | OP                       |
+| /i | NONE            | estools.give                                       | OP                       |
+| /h | NONE            | estools.give                                       | OP                       |
+| /estools | NONE            | estools.version                                    | NOT OP                   |
+| /estools reload | NONE            | estools.reload                                     | OP                       |
+| /estools reset | NONE            | estools.reset                                      | OP                       |
+| /estools test | NONE            | estools.test                                       | OP                       |
+| /estools throw | NONE            | estools.throw                                      | OP                       |
+| /estools update | NONE            | estools.update                                     | OP                       |
+| /estools forceupdate | NONE            | estools.forceupdate                                | OP                       |
+| /ench | NONE            | estools.ench                                       | OP                       |
+| /fix | NONE            | estools.fix                                        | OP                       |
+| /cchest | 1.7             | estools.cchest.creative OR estools.cchest.survival | NOT OP (OP for survival) |
+| /back | 1.1 | estools.back | OP |
+| /setstack | NONE | estools.setstack | OP |
+| /ci | NONE | estools.clearinv | OP |
+| /day | NONE | estools.time | OP |
+| /night | NONE | estools.time | OP |
+| /noon | NONE | estools.time | OP |
+| /midnight | NONE | estools.time | OP |
+| /sun | NONE | estools.weather | OP |
+| /rain | NONE | estools.weather | OP |
+| /thunder | NONE | estools.weather | OP |
+
