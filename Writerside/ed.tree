@@ -15,6 +15,7 @@
         <toc-element topic="mount.md"/>
         <toc-element topic="warps.md"/>
         <toc-element topic="warp.md"/>
+        <toc-element topic="bukkitdata.md"/>
         <toc-element topic="removepersistentdata.md"/>
         <toc-element topic="getpersistentdata.md"/>
         <toc-element topic="setpersistentdata.md"/>

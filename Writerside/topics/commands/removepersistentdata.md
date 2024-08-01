@@ -1,4 +1,6 @@
-# /removepersistentdata
+# /removepersistentdata [removed]
+
+**This command was removed in EsTools Version 5.1**
 
 **Minimum Version: 1.14**  
 **(O) Permission:** `estools.removepersistentdata`
